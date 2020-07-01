@@ -321,3 +321,5 @@ rmdir fonts
 rm --help
 rm -r fnts
 rm -r fonts
+ls --color=auto -l
+ls --color=auto
