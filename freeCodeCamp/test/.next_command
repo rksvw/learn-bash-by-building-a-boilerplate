@@ -289,3 +289,4 @@ images
 touch background.jpg
 mv background.jpg images
 rm images/background.jpg
+rmdir images
