@@ -83,3 +83,4 @@ mkdir website
 ls --color=auto -l
 cd website
 ls --color=auto
+echo hello website
