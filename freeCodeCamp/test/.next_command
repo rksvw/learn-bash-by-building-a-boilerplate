@@ -66,3 +66,7 @@ clear
 ls --color=auto -l
 cd src
 pwd
+/
+cd /
+cd /workspace/project/freeCodeCamp/node_modules/has/src
+ls --color=auto
