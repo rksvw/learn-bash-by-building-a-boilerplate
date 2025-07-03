@@ -228,3 +228,9 @@ cd ../../..
 ls --color=auto
 cd images
 ls --color=auto -l
+mv background.jpg ..
+ls --color=auto
+cd ..
+ls --color=auto
+cd images
+mv header.png ..
