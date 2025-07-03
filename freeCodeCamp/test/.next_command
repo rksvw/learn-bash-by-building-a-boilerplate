@@ -316,3 +316,4 @@ rm lato-bold-ttf
 cd ../../../
 touch ./client/assets/fonts/lato-bold.ttf
 touch ./client/assets/fonts/lato-light.ttf
+find
