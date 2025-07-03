@@ -307,3 +307,11 @@ touch ./client/assets/fonts/roboto-bold.woff
 touch ./client/assets/fonts/roboto-light.woff
 find
 find client/assets/fonts
+touch ./client/assets/fonts/lato-bold-ttf
+cd ./client/assets/fonts
+rmdir lato-bold
+rmdir lato-bold-ttf
+ls --color=auto
+rm lato-bold-ttf
+cd ../../../
+touch ./client/assets/fonts/lato-bold.ttf
