@@ -89,3 +89,4 @@ touch styles.css
 ls --color=auto -l
 touch index.js
 touch .gitignore
+ls --color=auto -l
