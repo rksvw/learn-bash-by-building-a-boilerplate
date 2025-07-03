@@ -91,3 +91,4 @@ touch index.js
 touch .gitignore
 ls --color=auto -l
 ls --color=auto --help
+ls --color=auto -a
