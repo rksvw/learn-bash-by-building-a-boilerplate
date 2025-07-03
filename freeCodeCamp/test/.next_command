@@ -132,3 +132,4 @@ cd ..
 rm footer.jpeg
 ls --color=auto
 rm header.png
+rm footer.jpeg
