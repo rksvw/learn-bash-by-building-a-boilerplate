@@ -274,3 +274,18 @@ find
 find
 ls --color=auto
 rmdir images
+ls --color=auto
+rm ./images/background.jpg
+rm images/background.jpg
+cd images
+rm background.jpg
+rm images/background.jpg
+mkdir images
+mv background.jpg ./images
+mv background.jpg images
+ls --color=auto
+ls --color=auto
+images
+touch background.jpg
+mv background.jpg images
+rm images/background.jpg
