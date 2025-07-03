@@ -36,3 +36,4 @@ echo hello terminal
 pwd
 echo hello world
 ls --color=auto
+cd freeCodeCamp
