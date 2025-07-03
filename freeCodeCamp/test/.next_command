@@ -271,3 +271,6 @@ find
 cd ..
 find .
 find
+find
+ls --color=auto
+rmdir images
