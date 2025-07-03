@@ -215,3 +215,5 @@ rm -r assest
 mkdir assests
 rm -r assests
 mkdir assets
+cd asset
+cd assets
