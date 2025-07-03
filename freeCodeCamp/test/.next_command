@@ -235,3 +235,4 @@ ls --color=auto
 cd images
 mv header.png ..
 ls --color=auto
+cd ..
