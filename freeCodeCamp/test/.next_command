@@ -208,3 +208,10 @@ ls --color=auto
 cd website
 find
 cd client
+mkdir assest
+rm assest
+rs -r assests
+rm -r assest
+mkdir assests
+rm -r assests
+mkdir assets
