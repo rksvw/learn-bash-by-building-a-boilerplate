@@ -304,3 +304,4 @@ mkdir ./client/assets/fonts
 touch roboto-bold.woff
 rm roboto-bold.woff
 touch ./client/assets/fonts/roboto-bold.woff
+touch ./client/assets/fonts/roboto-light.woff
