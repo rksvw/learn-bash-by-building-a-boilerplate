@@ -207,3 +207,4 @@ cd project
 ls --color=auto
 cd website
 find
+cd client
